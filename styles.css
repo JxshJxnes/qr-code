@@ -1,0 +1,19 @@
+body {
+background-color: hsl(212, 45%, 89%);
+padding: 25rem;
+font-family: Outfit;
+}
+
+#content {
+    background-color: white;
+    border-radius: 25px;
+    margin: auto;
+    text-align: center;
+    padding: 2rem;
+}
+
+img {
+    border-radius: 25px;
+    max-width: 25rem;
+    height: auto;
+}
